@@ -1,0 +1,217 @@
+{
+    "navBar": {
+      "dashboard": "डैशबोर्ड",
+      "myAccount": "मेरा खाता"
+    },
+  
+    "toolBar": {
+      "surveyEditor": "सर्वेक्षण एडीटर",
+      "flowEditor": "क्रमांक एडीटर",
+      "surveySettings": "सर्वेक्षण सेटिंग्स",
+      "surveyPreview": "सर्वेक्षण पूर्वावलोकन"
+    },
+  
+    "workSpace": {
+      "addNewBlock": "नया ब्लॉक दर्ज करें"
+    },
+  
+    "builderBlock": {
+      "addNewQuestion": "नया प्रश्न दर्ज करें",
+      "questionType": "प्रश्न प्रकार",
+      "blockOptions":"ब्लॉक विकल्प",
+      "duplicateBlock": "डुप्लिकेट ब्लॉक",
+      "clearBlock": "ब्लॉक खाली करें",
+      "deleteBlock": "ब्लॉक हटाएं",
+      "typeDescription": "प्रकार का विवरण",
+      "descriptionText": "विवरण:"
+    },
+  
+    "builderQuestion": {
+      "questionOptions": "प्रश्न विकल्प",
+      "duplicateQuestion": "डुप्लिकेट प्रश्न",
+      "deleteQuestion": "प्रश्न हटाएं",
+      "textEntryPlaceholder": "टेक्स्ट एंट्री प्लेसहोल्डर टेक्स्ट",
+      "buttonContent": "बटन विषय",
+      "minTitle": "न्यूनतम लेबल विषय",
+      "midTitle": "मध्य लेबल विषय",
+      "maxTitle": "अधिकतम लेबल विषय",
+      "livePreview": "लाइव पूर्वावलोकन",
+      "multipleChoiceOptions": "बहु विकल्पीय प्रश्न",
+      "questionType": "प्रश्न प्रकार",
+      "DnDChips": "चिप्स खींचें और छोड़ें",
+      "DnDCategories": "श्रेणियों को खींचें और छोड़ें",
+      "endSelected": "चयनित होने पर समाप्त करें?"
+    },
+  
+    "textBox": {
+      "answer": "उत्तर"
+    },
+  
+    "pOptionsTextEntry": {
+      "validateAnswer": "उत्तर मान्य करें",
+      "minCharLength": "न्यूनतम वर्ण लंबाई सेट करें",
+      "minPlaceholder": "न्यूनतम लंबाई",
+      "maxCharLength": "अधिकतम वर्ण लंबाई सेट करें",
+      "maxPlaceholder": "अधिकतम लंबाई",
+      "answerType": "टेक्स्ट एंट्री उत्तर प्रकार",
+      "intLowerBound": "पूर्णांक निचली सीमा सेट करें",
+      "decLowerBound": "दशमलव निचली सीमा सेट करें",
+      "intUpperBound": "पूर्णांक ऊपरी सीमा सेट करें",
+      "decUpperBound": "दशमलव ऊपरी सीमा सेट करें"
+    },
+  
+    "pOptionsArticles": {
+      "socialPostFormat": "सोशल पोस्ट फॉर्मेट",
+      "socialEngagement": "सोशल पोस्ट एंगेजमेंट",
+      "likeCount": "लाइक्स की संख्या",
+      "commentCount": "टिप्पणियों की संख्या",
+      "shareCount": "शेयर की संख्या"
+    },
+  
+    "pOptionsButtonRow": {
+      "numButtons": "बटनों की संख्या",
+      "endSurvey": "सर्वेक्षण समाप्त करने का विकल्प"
+    }, 
+  
+    "pOptionsMC": {
+      "numOptions": "विकल्पों की संख्या",
+      "allowMultiple": "एकाधिक उत्तरों की अनुमति दें",
+      "setMinimum": "न्यूनतम अनुमत उत्तर सेट करें",
+      "setMaximum": "अधिकतम अनुमत उत्तर सेट करें"
+    },
+
+    "pOptionsDnD": {
+      "numChips": "चिप्स की संख्या",
+      "numCategories": "श्रेणियों की संख्या"
+    },
+  
+    "pOptionsNumScale": {
+      "scaleSettings": "स्केल सेटिंग्स",
+      "minValue": "न्यूनतम मूल्य",
+      "maxValue": "अधिकतम मूल्य",
+      "stepValue": "स्टेप मूल्य",
+      "scaleLabels": "स्केल लेबल",
+      "minLabelShow": "न्यूनतम लेबल दिखा रहा है",
+      "midLabelShow": "मध्य लेबल दिखा रहा है",
+      "maxLabelShow": "अधिकतम लेबल दिखा रहा है"
+    },
+
+    "pOptionsFlow": {
+      "showFlow": "फ्लो एडिट व्यू दिखाओ"
+  },
+  
+    "postEditable": {
+      "noImage": "छवि नहीं है"
+    },
+  
+    "qContentArticles": {
+      "articleLink": "लेख का लिंक",
+      "articleLinkPlaceholder": "होस्ट किए गए समाचार लेख का लिंक",
+      "fetch": "लाओ",
+      "imageLink": "छवि का लिंक (स्वचालित रूप से लेख लिंक द्वारा भरा गया)",
+      "imageLinkPlaceholder": "हेडर इमेज का लिंक",
+      "refresh": "रीफ़्रेश",
+      "editablePreview": "संपादन योग्य पूर्वावलोकन",
+      "likeCount": "लाइक्स की संख्या",
+      "likePlaceholder": "प्रदर्शित करने के लिए लाइक्स की संख्या",
+      "commentCount": "टिप्पणियों की संख्या",
+      "commentPlaceholder": "प्रदर्शित करने के लिए टिप्पणियों की संख्या",
+      "shareCount": "शेयर की संख्या",
+      "sharePlaceholder": "प्रदर्शित करने के लिए शेयर की संख्या"
+    },
+  
+    "panelBase": {
+      "editQuestion": "प्रश्न संपादित करें",
+      "questionType":"प्रश्न प्रकार",
+      "editBlock": "प्रश्न प्रकार",
+      "answerReq": "उत्तर आवश्यक",
+      "surveyFlow": "सर्वेक्षण फ्लो संपादित करें"
+    },
+
+    "randomElem": {
+      "start": "यादृच्छिक खंड की शुरुआत",
+      "end": "यादृच्छिक खंड का अंत"
+    },
+
+    "flowEditor": {
+      "block": "ब्लॉक",
+      "noQuestions": "इस ब्लॉक में कोई प्रश्न नहीं है"
+    },
+  
+    "app": {
+      "surveyTitle": "सर्वेक्षण शीर्षक",
+      "newBlockTitle": "डिफ़ॉल्ट ब्लॉक शीर्षक",
+      "newQuestionTitle": "डिफ़ॉल्ट प्रश्न शीर्षक",
+      "source": "डिफ़ॉल्ट स्रोत",
+      "snippet": "डिफ़ॉल्ट स्निपेट",
+      "title": "डिफ़ॉल्ट शीर्षक",
+      "buttonDefault": "डिफ़ॉल्ट",
+      "MCDefault": "डिफ़ॉल्ट",
+      "numScaleNot": "बिल्कुल नहीं",
+      "numScaleSomewhat": "कुछ हद तक",
+      "numScaleVery": "बहुत ज्यादा",
+      "true": "सच",
+      "false": "झूठ",
+      "item": "डिफ़ॉल्ट",
+      "category": "डिफ़ॉल्ट"
+      
+    },
+    "g5" : {
+      "Home": "होम पेज",
+      "User Profile": "प्रोफ़ाइल पेज",
+      "My Surveys": "मेरे सर्वेक्षण",
+      "Log In": "लॉग इन करें",
+      "Sign Up": "साइन अप",
+      "Log in": "लॉग इन",
+      "Create Account": "खाता बनाएं",
+      "Username": "उपयोगकर्ता नाम दर्ज करें",
+      "Password": "पासवर्ड दर्ज करें",
+      "Email": "ईमेल दर्ज करें",
+      "Confirm password": "पासवर्ड कन्फ़र्म करें",
+      "Forgot your password?": "पासवर्ड भूल गए?",
+      "LOG IN": "लॉग इन",
+      "Dont have an account?": "खाता नहीं है?",
+      "SIGN UP": "साइन अप",
+      "Please enter your email": "कृपया ईमेल दर्ज करें",
+      "SUBMIT": "सबमिट",
+      "Reset your password": "पासवर्ड रीसेट करें",
+      "Enter new password": "नया पासवर्ड दर्ज करें",
+      "Confirm your password": "नया पासवर्ड कन्फ़र्म करें",
+      "Verify your email": "ईमेल वेरीफाई करें",
+      "Survey Language": "सर्वेक्षण भाषा",
+      "Time Limit": "समय सीमा",
+      "Survey Status": "सर्वेक्षण की स्थिति",
+      "Active": "सक्रिय",
+      "Inactive": "निष्क्रिय",
+      "minutes": "मिनट",
+      "Export": "प्रतिक्रियाएं निर्यीत करें",
+      "Welcome to CP13 Survey Platform!": "CP13 सर्वेक्षण प्लेटफॉर्म में आपका स्वागत है!",
+      "Some introduction goes here!": "यहां परिचय दें!",
+      "Log in failed": "लॉगिन फेल",
+      "profile-username": "उपयोगकर्ता नाम",
+      "profile-email": "ईमेल एड्रेस",
+      "profile-first": "पहला नाम",
+      "profile-last": "उपनाम",
+      "logout": "लॉग आउट",
+      "update-first": "नया पहला नाम",
+      "update-last": "नया उपनाम",
+      "new-password": "नया पासवर्ड",
+      "confirm-password": "पासवर्ड की पुष्टि कीजिये",
+      "old-password": "पुराना पासवर्ड",
+      "save": "बचाएं",
+      "delete-account": "खाता हटा दो",
+      "cancel": "रद्द करें",
+      "ms-create": "सर्वेक्षण बनाएं",
+      "ms-title": "शीर्षक",
+      "ms-length": "लंबाई (मिनट)",
+      "ms-action": "कार्रवाई",
+      "ms-edit": "संपादित करें",
+      "ms-view-stats": "आँकड़े देखें",
+      "ms-export-conf": "निर्यात विन्यास",
+      "total-resp": "कुल प्रतिक्रिया",
+      "last-response": "नवीनतम प्रतिक्रिया",
+      "statistics": "आंकड़े",
+      "update-pwd": "अपडेट पासवर्ड"
+  }
+  
+}

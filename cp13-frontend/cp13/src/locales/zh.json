@@ -1,0 +1,218 @@
+{
+    "navBar": {
+      "dashboard": "控制板",
+      "myAccount": "我的账号"
+    },
+  
+    "toolBar": {
+      "surveyEditor": "问卷编辑器",
+      "flowEditor": "流程编辑器",
+      "surveySettings": "问卷设置",
+      "surveyPreview": "问卷预览"
+    },
+  
+    "workSpace": {
+      "addNewBlock": "添加新区块"
+    },
+  
+    "builderBlock": {
+      "addNewQuestion": "添加新问题",
+      "questionType": "问题类型",
+      "blockOptions":"区块设置",
+      "duplicateBlock": "复制区块",
+      "clearBlock": "清空区块",
+      "deleteBlock": "删除区块",
+      "typeDescription": "类型描述",
+      "descriptionText": "类型描述"
+    },
+  
+    "builderQuestion": {
+      "questionOptions": "问题选项",
+      "duplicateQuestion": "复制问题",
+      "deleteQuestion": "删除问题",
+      "textEntryPlaceholder": "答案占位符",
+      "buttonContent": "按钮内容",
+      "minTitle": "下限标题",
+      "midTitle": "中间值标题",
+      "maxTitle": "上限标题",
+      "livePreview": "同步预览",
+      "multipleChoiceOptions": "多选题目选项",
+      "questionType": "问题类型",
+      "DnDChips": "拖放块",
+      "DnDCategories": "拖放类别",
+      "endSelected": "End if selected?"
+    },
+  
+    "textBox": {
+      "answer": "答案"
+    },
+  
+    "pOptionsTextEntry": {
+      "validateAnswer": "答案验证",
+      "minCharLength": "最短答案长度",
+      "minPlaceholder": "最短答案占位符",
+      "maxCharLength": "最长答案长度",
+      "maxPlaceholder": "最长答案占位符",
+      "answerType": "文字回答类型",
+      "intLowerBound": "设置整数下限",
+      "decLowerBound": "设置浮点数下限",
+      "intUpperBound": "设置整数上限",
+      "decUpperBound": "设置浮点数上限"
+    },
+  
+    "pOptionsArticles": {
+      "socialPostFormat": "社交平台内容格式",
+      "socialEngagement": "社交平台互动",
+      "likeCount": "点赞数",
+      "commentCount": "评论数",
+      "shareCount": "转发数"
+    },
+  
+    "pOptionsButtonRow": {
+      "numButtons": "数量按钮",
+      "endSurvey": "Option to end survey"
+    }, 
+  
+    "pOptionsMC": {
+      "numOptions": "选择数",
+      "allowMultiple": "允许多选",
+      "setMinimum": "设置下限",
+      "setMaximum": "设置上限"
+    },
+
+    "pOptionsDnD": {
+      "numChips": "拖放块数",
+      "numCategories": "拖放类别数"
+    },
+  
+    "pOptionsNumScale": {
+      "scaleSettings": "设置域",
+      "minValue": "最小值",
+      "maxValue": "最大值",
+      "stepValue": "步数",
+      "scaleLabels": "标签域",
+      "minLabelShow": "最小标签",
+      "midLabelShow": "中等标签",
+      "maxLabelShow": "最大标签"
+    },
+
+    "pOptionsFlow": {
+      "showFlow": "展示编辑"
+  },
+  
+    "postEditable": {
+      "noImage": "没有突破"
+    },
+  
+    "qContentArticles": {
+      "articleLink": "文章链接",
+      "articleLinkPlaceholder": "文章链接",
+      "fetch": "拉取",
+      "imageLink": "图片链接",
+      "imageLinkPlaceholder": "图片链接",
+      "refresh": "刷新",
+      "editablePreview": "可编辑预览",
+      "likeCount": "点赞数",
+      "likePlaceholder": "点赞数",
+      "commentCount": "评论数",
+      "commentPlaceholder": "评论数",
+      "shareCount": "转发数",
+      "sharePlaceholder": "转发数"
+    },
+  
+    "panelBase": {
+      "editQuestion": "编辑问题",
+      "questionType":"问题类型",
+      "editBlock": "编辑区块",
+      "answerReq": "回答要求",
+      "surveyFlow": "编辑调查"
+    },
+
+    "randomElem": {
+      "start": "随机展示开始",
+      "end": "随机展示结束"
+    },
+
+    "flowEditor": {
+      "block": "Block",
+      "noQuestions": "This block has no questions"
+    },
+  
+    "app": {
+      "surveyTitle": "问卷标题",
+      "newBlockTitle": "区块标题",
+      "newQuestionTitle": "问题标题",
+      "source": "来源",
+      "snippet": "默认片段",
+      "title": "标题",
+      "buttonDefault": "按钮默认",
+      "MCDefault": "多选默认",
+      "numScaleNot": "没兴趣",
+      "numScaleSomewhat": "一般",
+      "numScaleVery": "有兴趣",
+      "true": "赞同",
+      "false": "反对",
+      "item": "多选默认",
+      "category": "多选默认"
+  
+    },
+
+    "g5": {
+      "Home": "主页",
+      "User Profile": "用户信息",
+      "My Surveys": "我的问卷",
+      "Log In": "登陆",
+      "Sign Up": "注册",
+      "Log in": "请登陆",
+      "Create Account": "创建一个新账号",
+      "Username": "请输入您的账号",
+      "Password": "请输入您的密码",
+      "Email": "请输入您的邮箱",
+      "Confirm password": "请确认您的密码",
+      "Forgot your password?": "忘记密码了吗？没关系！",
+      "LOG IN": "登 陆",
+      "Dont have an account?": "需要创建一个账号吗？",
+      "SIGN UP": "注 册",
+      "Please enter your email": "请输入你注册的邮箱",
+      "SUBMIT": "确 认",
+      "Reset your password": "请在下方重置您的密码",
+      "Enter new password": "请输入您的新密码",
+      "Confirm your password": "请再一次输入密码",
+      "Verify your email": "请验证您的邮箱",
+      "Survey Language": "问卷语言",
+      "Time Limit": "时间限制",
+      "Survey Status": "问卷状态",
+      "Active": "使用中",
+      "Inactive": "未被使用",
+      "minutes": "分钟",
+      "Export": "导出",
+      "Welcome to CP13 Survey Platform!": "欢迎来到CP13问卷平台！",
+      "Some introduction goes here!": "这里是一些介绍！",
+      "Log in failed": "登陆失败",
+      "profile-username": "用户名",
+      "profile-email": "邮箱地址",
+      "profile-first": "名字",
+      "profile-last": "姓氏",
+      "logout": "注销",
+      "update-first": "新的名字",
+      "update-last": "新的姓氏",
+      "new-password": "新的密码",
+      "confirm-password": "确认密码",
+      "old-password": "旧的密码",
+      "save": "保存",
+      "delete-account": "删除账号",
+      "cancel": "取消",
+      "ms-create": "创建新的调查问卷",
+      "ms-title": "标题",
+      "ms-length": "长度（分钟）",
+      "ms-action": "功能",
+      "ms-edit": "编辑",
+      "ms-view-stats": "查看数据",
+      "ms-export-conf": "导出配置信息",
+      "total-resp": "总的回复数",
+      "last-response": "最新的回复",
+      "statistics": "数据",
+      "update-pwd": "更新密码"
+  }
+  
+}

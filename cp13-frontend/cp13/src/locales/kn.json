@@ -1,0 +1,215 @@
+{
+  "navBar": {
+    "dashboard": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "myAccount": "ನನ್ನ ಖಾತೆ"
+  },
+
+  "toolBar": {
+    "surveyEditor": "ಸಮೀಕ್ಷೆ ಸಂಪಾದಕ",
+    "flowEditor": "ಫ್ಲೋ ಎಡಿಟರ್",
+    "surveySettings": "ಸಮೀಕ್ಷೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "surveyPreview": "ಪೂರ್ವವೀಕ್ಷಣೆ ಸಮೀಕ್ಷೆ"
+  },
+
+  "workSpace": {
+    "addNewBlock": "ಹೊಸ ಬ್ಲಾಕ್ ಸೇರಿಸಿ"
+  },
+
+  "builderBlock": {
+    "addNewQuestion": "ಹೊಸ ಪ್ರಶ್ನೆಯನ್ನು ಸೇರಿಸಿ",
+    "questionType": "ಪ್ರಶ್ನೆಯ ಪ್ರಕಾರ",
+    "blockOptions":"ಬ್ಲಾಕ್ ಆಯ್ಕೆಗಳು",
+    "duplicateBlock": "ನಕಲು ಬ್ಲಾಕ್",
+    "clearBlock": "ಖಾಲಿ ಬ್ಲಾಕ್ ಮಾಡಲು",
+    "deleteBlock": "ಬ್ಲಾಕ್ ಅಳಿಸಿ",
+    "typeDescription": "ಮಾರ್ಕ್ಅಪ್‌ನಲ್ಲಿ ವಿವರಣೆಯನ್ನು ಟೈಪ್ ಮಾಡಿ...",
+    "descriptionText": "ಪಠ್ಯ ವಿವರಣೆ:"
+  },
+
+  "builderQuestion": {
+    "questionOptions": "ಪ್ರಶ್ನೆ ಆಯ್ಕೆಗಳು",
+    "duplicateQuestion": "ಪ್ರಶ್ನೆಯನ್ನು ನಕಲಿಸಲು",
+    "deleteQuestion": "ಪ್ರಶ್ನೆಯನ್ನು ಅಳಿಸಲು",
+    "textEntryPlaceholder": "ಪಠ್ಯ ಪ್ರವೇಶ ಪ್ಲೇಸ್‌ಹೋಲ್ಡರ್ ಪಠ್ಯ:",
+    "buttonContent": "ಬಟನ್ ವಿಷಯ:",
+    "minTitle": "ಕನಿಷ್ಠ ಲೇಬಲ್ ವಿಷಯ:",
+    "midTitle": "ಮಧ್ಯಮ ಲೇಬಲ್ ವಿಷಯ:",
+    "maxTitle": "ಗರಿಷ್ಠ ಲೇಬಲ್ ವಿಷಯ:",
+    "livePreview": "ನೇರ ಪೂರ್ವವೀಕ್ಷಣೆ",
+    "multipleChoiceOptions": "ಬಹು ಆಯ್ಕೆ ಆಯ್ಕೆಗಳು:",
+    "questionType": "ಪ್ರಶ್ನೆಯ ಪ್ರಕಾರ",
+    "DnDChips": "ಡ್ರ್ಯಾಗ್ ಮತ್ತು ಡ್ರಾಪ್ ಚಿಪ್ಸ್",
+    "DnDCategories": "ಡ್ರ್ಯಾಗ್ ಮತ್ತು ಡ್ರಾಪ್ ವಿಭಾಗಗಳು",
+    "endSelected": "ಆಯ್ಕೆ ಮಾಡಿದರೆ ಕೊನೆಗೊಳ್ಳುವುದೇ?"
+  },
+
+  "textBox": {
+    "answer": "ಉತ್ತರ"
+  },
+
+  "pOptionsTextEntry": {
+    "validateAnswer": "ಉತ್ತರವನ್ನು ಮಾನ್ಯ ಮಾಡಿ",
+    "minCharLength": "ಕನಿಷ್ಠ ಅಕ್ಷರ ಉದ್ದವನ್ನು ಹೊಂದಿಸಿ",
+    "minPlaceholder": "ಕನಿಷ್ಠ ಉದ್",
+    "maxCharLength": "ಗರಿಷ್ಠ ಅಕ್ಷರ ಉದ್ದವನ್ನು ಹೊಂದಿಸಿ",
+    "maxPlaceholder": "ಗರಿಷ್ಠ ಉದ್ದ",
+    "answerType": "ಪಠ್ಯ ನಮೂದು ಉತ್ತರದ ಪ್ರಕಾರ",
+    "intLowerBound": "ಪೂರ್ಣಾಂಕವನ್ನು ಕಡಿಮೆ ಬೌಂಡ್ ಹೊಂದಿಸಿ",
+    "decLowerBound": "ದಶಮಾಂಶ ಕಡಿಮೆ ಬೌಂಡ್ ಹೊಂದಿಸಿ",
+    "intUpperBound": "ಪೂರ್ಣಾಂಕವನ್ನು ಮೇಲಿನ ಬೌಂಡ್ ಹೊಂದಿಸಿ",
+    "decUpperBound": "ದಶಮಾಂಶ ಮೇಲಿನ ಬೌಂಡ್ ಅನ್ನು ಹೊಂದಿಸಿ"
+  },
+
+  "pOptionsArticles": {
+    "socialPostFormat": "ಸಾಮಾಜಿಕ ಪೋಸ್ಟ್ ಸ್ವರೂಪ",
+    "socialEngagement": "ಸಾಮಾಜಿಕ ಪೋಸ್ಟ್ ನಿಶ್ಚಿತಾರ್ಥ",
+    "likeCount": "ಎಣಿಕೆಯಂತೆ",
+    "commentCount": "ಕಾಮೆಂಟ್ ಎಣಿಕೆ",
+    "shareCount": "ಶೇರ್ ಎಣಿಕೆ"
+  },
+
+  "pOptionsButtonRow": {
+    "numButtons": "ಗುಂಡಿಗಳ ಸಂಖ್ಯೆ",
+    "endSurvey": "ಸಮೀಕ್ಷೆಯನ್ನು ಕೊನೆಗೊಳಿಸುವ ಆಯ್ಕೆ"
+  }, 
+
+  "pOptionsMC": {
+    "numOptions": "ಆಯ್ಕೆಗಳ ಸಂಖ್ಯೆ",
+    "allowMultiple": "ಬಹು ಉತ್ತರಗಳನ್ನು ಅನುಮತಿಸಿ",
+    "setMinimum": "ಅನುಮತಿಸಲಾದ ಕನಿಷ್ಠ ಉತ್ತರಗಳನ್ನು ಹೊಂದಿಸಿ",
+    "setMaximum": "ಅನುಮತಿಸಲಾದ ಗರಿಷ್ಠ ಉತ್ತರಗಳನ್ನು ಹೊಂದಿಸಿ"
+  },
+
+  "pOptionsDnD": {
+    "numChips": "ಚಿಪ್ಸ್ ಸಂಖ್ಯೆ",
+    "numCategories": "ವರ್ಗಗಳ ಸಂಖ್ಯೆ"
+  },
+
+  "pOptionsNumScale": {
+    "scaleSettings": "ಸ್ಕೇಲ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "minValue": "ಕನಿಷ್ಠ ಮೌಲ್ಯ",
+    "maxValue": "ಗರಿಷ್ಠ ಮೌಲ್ಯ",
+    "stepValue": "ಮಧ್ಯಂತರ ಹಂತದ ಮೌಲ್ಯ",
+    "scaleLabels": "ಸ್ಕೇಲ್ ಲೇಬಲ್‌ಗಳು",
+    "minLabelShow": "ಕನಿಷ್ಠ ಲೇಬಲ್ ಗೋಚರಿಸುತ್ತದೆ",
+    "midLabelShow": "ಮಧ್ಯದ ಲೇಬಲ್ ಗೋಚರಿಸುತ್ತದೆ",
+    "maxLabelShow": "ಗರಿಷ್ಠ ಲೇಬಲ್ ಗೋಚರಿಸುತ್ತದೆ"
+  },
+
+  "pOptionsFlow": {
+    "showFlow": "ಹರಿವಿನ ಸಂಪಾದನೆ ವೀಕ್ಷಣೆಯನ್ನು ತೋರಿಸಿ"
+},
+
+  "postEditable": {
+    "noImage": "ಚಿತ್ರವಿಲ್ಲ"
+  },
+
+  "qContentArticles": {
+    "articleLink": "ಲೇಖನಕ್ಕೆ ಲಿಂಕ್",
+    "articleLinkPlaceholder": "ಹೋಸ್ಟ್ ಮಾಡಿದ ಸುದ್ದಿ ಲೇಖನಕ್ಕೆ ಲಿಂಕ್...",
+    "fetch": "ತರಲು",
+    "imageLink": "ಚಿತ್ರಕ್ಕೆ ಲಿಂಕ್ (ಲೇಖನ ಲಿಂಕ್ ಮೂಲಕ ಸ್ವಯಂ ಜನಸಂಖ್ಯೆ)",
+    "imageLinkPlaceholder": "ಶಿರೋಲೇಖ ಚಿತ್ರಕ್ಕೆ ಲಿಂಕ್...",
+    "refresh": "ರಿಫ್ರೆಶ್ ಮಾಡಿ",
+    "editablePreview": "ಸಂಪಾದಿಸಬಹುದಾದ ಪೂರ್ವವೀಕ್ಷಣೆ",
+    "likeCount": "ಎಣಿಕೆಯಂತೆ",
+    "likePlaceholder": "ಪ್ರದರ್ಶಿಸಲು ಇಷ್ಟಗಳ ಸಂಖ್ಯೆ...",
+    "commentCount": "ಕಾಮೆಂಟ್ ಎಣಿಕೆ",
+    "commendPlaceholder": "ಪ್ರದರ್ಶಿಸಲು ಕಾಮೆಂಟ್‌ಗಳ ಸಂಖ್ಯೆ...",
+    "shareCount": "ಹಂಚಿಕೆ ಎಣಿಕೆ",
+    "sharePlaceholder": "ಪ್ರದರ್ಶಿಸಲು ಷೇರುಗಳ ಸಂಖ್ಯೆ..."
+  },
+
+  "panelBase": {
+    "editQuestion": "ಪ್ರಶ್ನೆಯನ್ನು ಸಂಪಾದಿಸಿ",
+    "questionType":"ಪ್ರಶ್ನೆಯ ಪ್ರಕಾರ",
+    "editBlock": "ಬ್ಲಾಕ್ ಅನ್ನು ಎಡಿಟ್ ಮಾಡಿ",
+    "answerReq": "ಉತ್ತರ ಅಗತ್ಯವಿದೆ",
+    "surveyFlow": "ಸಮೀಕ್ಷೆಯ ಹರಿವನ್ನು ಸಂಪಾದಿಸಿ"
+  },
+
+  "randomElem": {
+    "start": "ಯಾದೃಚ್ಛಿಕ ವಿಭಾಗದ ಪ್ರಾರಂಭ",
+    "end": "ಯಾದೃಚ್ಛಿಕ ವಿಭಾಗದ ಅಂತ್ಯ"
+  },
+
+  "flowEditor": {
+    "block": "ನಿರ್ಬಂಧಿಸಿ",
+    "noQuestions": "ಈ ಬ್ಲಾಕ್‌ಗೆ ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳಿಲ್ಲ"
+  },
+
+  "app": {
+    "surveyTitle": "ಸಮೀಕ್ಷೆಯ ಶೀರ್ಷಿಕೆ",
+    "newBlockTitle": "ಡೀಫಾಲ್ಟ್ ಬ್ಲಾಕ್ ಶೀರ್ಷಿಕೆ",
+    "newQuestionTitle": "ಡೀಫಾಲ್ಟ್ ಪ್ರಶ್ನೆ ಶೀರ್ಷಿಕೆ",
+    "source": "ಡೀಫಾಲ್ಟ್ ಮೂಲ",
+    "snippet": "ಡೀಫಾಲ್ಟ್ ತುಣುಕು",
+    "title": "ಡೀಫಾಲ್ಟ್ ಶೀರ್ಷಿಕೆ",
+    "buttonDefault": "ಡೀಫಾಲ್ಟ್",
+    "MCDefault": "ಡೀಫಾಲ್ಟ್",
+    "numScaleNot": "ಅಲ್ಲ",
+    "numScaleSomewhat": "ಸ್ವಲ್ಪಮಟ್ಟಿಗೆ",
+    "numScaleVery": "ತುಂಬಾ",
+    "true": "ನಿಜವಾದ",
+    "false": "ತಪ್ಪು",
+    "item": "ಡೀಫಾಲ್ಟ್",
+    "category": "ಡೀಫಾಲ್ಟ್"
+  },
+  "g5": {
+    "Home": "ಮುಖಪುಟ",
+    "User Profile": "ಬಳಕೆದಾರರ ಪ್ರೊಫೈಲ್",
+    "My Surveys": "ನನ್ನ ಸಮೀಕ್ಷೆಗಳು",
+    "Log In": "ಲಾಗ್ ಇನ್",
+    "Sign Up": "ಸೈನ್ ಅಪ್",
+    "Log in": "ಲಾಗ್ ಇನ್",
+    "Create Account": "ಖಾತೆ ತೆರೆ",
+    "Username": "ಬಳಕೆದಾರ ಹೆಸರು",
+    "Password": "ಗುಪ್ತಪದ",
+    "Email": "ಇಮೇಲ್",
+    "Confirm password": "ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ",
+    "Forgot your password?": "ನಿಮ್ಮ ಗುಪ್ತಪದವನ್ನು ಮರೆತಿರುವಿರಾ?",
+    "LOG IN": "ಲಾಗ್ ಇನ್",
+    "Dont have an account?": "ಖಾತೆ ಇಲ್ಲವೇ?",
+    "SIGN UP": "ಸೈನ್ ಅಪ್",
+    "Please enter your email": "Pದಯವಿಟ್ಟು ನಿಮ್ಮ ಇಮೇಲ್ ನಮೂದಿಸಿ",
+    "SUBMIT": "ಸಲ್ಲಿಸು",
+    "Reset your password": "ನಿಮ್ಮ ಗುಪ್ತಪದವನ್ನು ಮರುಹೊಂದಿಸಿ",
+    "Enter new password": "ಹೊಸ ಗುಪ್ತಪದವನ್ನು ನಮೂದಿಸಿ",
+    "Confirm your password": "ನಿಮ್ಮ ಗುಪ್ತಪದವನ್ನು ಖಚಿತಪಡಿಸಿ",
+    "Verify your email": "ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ",
+    "Survey Language": "ಸಮೀಕ್ಷೆ ಭಾಷೆ",
+    "Time Limit": "ಸಮಯ ಮಿತಿ",
+    "Survey Status": "ಸಮೀಕ್ಷೆಯ ಸ್ಥಿತಿ",
+    "Active": "ಸಕ್ರಿಯ",
+    "Inactive": "ನಿಷ್ಕ್ರಿಯ",
+    "minutes": "ನಿಮಿಷಗಳು",
+    "Export": "ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ರಫ್ತು ಮಾಡಿ",
+    "Welcome to CP13 Survey Platform!": "CP13 ಸಮೀಕ್ಷೆ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಸುಸ್ವಾಗತ!",
+    "Some introduction goes here!": "ಪರಿಚಯ ಇಲ್ಲಿ ಹೋಗುತ್ತದೆ!",
+    "Log in failed": "ಪ್ರವೇಶ ವಿಫಲವಾಯಿತು",
+    "profile-username": "ಬಳಕೆದಾರ ಹೆಸರು",
+    "profile-email": "ಇಮೇಲ್ ವಿಳಾಸ",
+    "profile-first": "ಮೊದಲ ಹೆಸರು",
+    "profile-last": "ಕೊನೆಯ ಹೆಸರು",
+    "logout": "ಲಾಗ್ ಔಟ್",
+    "update-first": "ಹೊಸ ಮೊದಲ ಹೆಸರು",
+    "update-last": "ಹೊಸ ಕೊನೆಯ ಹೆಸರು",
+    "new-password": "ಹೊಸ ಪಾಸ್ವರ್ಡ್",
+    "confirm-password": "ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ",
+    "old-password": "ಹಳೆಯ ಪಾಸ್ವರ್ಡ್",
+    "save": "ಉಳಿಸಿ",
+    "delete-account": "ಖಾತೆಯನ್ನು ಅಳಿಸಿ",
+    "cancel": "ರದ್ದುಮಾಡು",
+    "ms-create": "ಸಮೀಕ್ಷೆಯನ್ನು ರಚಿಸಿ",
+    "ms-title": "ಶೀರ್ಷಿಕೆ",
+    "ms-length": "ಉದ್ದ (ನಿಮಿಷಗಳು)",
+    "ms-action": "ಕ್ರಿಯೆಗಳು",
+    "ms-edit": "ತಿದ್ದು",
+    "ms-view-stats": "ಅಂಕಿಅಂಶಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+    "ms-export-conf": "ರಫ್ತು ಸಂರಚನೆ",
+    "total-resp": "ಒಟ್ಟು ಪ್ರತಿಕ್ರಿಯೆಗಳು",
+    "last-response": "ಕೊನೆಯದಾಗಿ ಸಲ್ಲಿಸಿದ ಪ್ರತಿಕ್ರಿಯೆ",
+    "statistics": "ಅಂಕಿಅಂಶಗಳು",
+    "update-pwd": "ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ನವೀಕರಿಸಿ"
+  }
+}

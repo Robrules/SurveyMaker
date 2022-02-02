@@ -1,0 +1,216 @@
+{
+  "navBar": {
+    "dashboard": "Dashboard",
+    "myAccount": "My Account"
+  },
+
+  "toolBar": {
+    "surveyEditor": "Survey Editor",
+    "flowEditor": "Flow Editor",
+    "surveySettings": "Survey Settings",
+    "surveyPreview": "Preview Survey"
+  },
+
+  "workSpace": {
+    "addNewBlock": "add a new block"
+  },
+
+  "builderBlock": {
+    "addNewQuestion": "add a new question",
+    "questionType": "Question Type",
+    "blockOptions":"Block Options",
+    "duplicateBlock": "Duplicate Block",
+    "clearBlock": "Clear Block",
+    "deleteBlock": "Delete Block",
+    "typeDescription": "Type description in markup...",
+    "descriptionText": "Description Text:"
+  },
+
+  "builderQuestion": {
+    "questionOptions": "Question Options",
+    "duplicateQuestion": "Duplicate Question",
+    "deleteQuestion": "Delete Question",
+    "textEntryPlaceholder": "Text entry placeholder text:",
+    "buttonContent": "Button content:",
+    "minTitle": "Minimum label content:",
+    "midTitle": "Middle label content:",
+    "maxTitle": "Maximum label content:",
+    "livePreview": "Live Preview",
+    "multipleChoiceOptions": "Multiple Choice Options:",
+    "questionType": "Question type",
+    "DnDChips": "Drag and Drop Chips",
+    "DnDCategories": "Drag and Drop Categories",
+    "endSelected": "End if selected?"
+  },
+
+  "textBox": {
+    "answer": "answer"
+  },
+
+  "pOptionsTextEntry": {
+    "validateAnswer": "Validate Answer",
+    "minCharLength": "Set Minimum Character Length",
+    "minPlaceholder": "Min Length",
+    "maxCharLength": "Set Maximum Character Length",
+    "maxPlaceholder": "Max Length",
+    "answerType": "Text Entry Answer Type",
+    "intLowerBound": "Set Integer Lower Bound",
+    "decLowerBound": "Set Decimal Lower Bound",
+    "intUpperBound": "Set Integer Upper Bound",
+    "decUpperBound": "Set Decimal Upper Bound"
+  },
+
+  "pOptionsArticles": {
+    "socialPostFormat": "Social Post Format",
+    "socialEngagement": "Social Post Engagement",
+    "likeCount": "Like Count",
+    "commentCount": "Comment Count",
+    "shareCount": "Share Count"
+  },
+
+  "pOptionsButtonRow": {
+    "numButtons": "Number of buttons",
+    "endSurvey": "Option to end survey"
+  }, 
+
+  "pOptionsMC": {
+    "numOptions": "Number of Options",
+    "allowMultiple": "Allow Multiple Answers",
+    "setMinimum": "Set Minimum Answers Permitted",
+    "setMaximum": "Set Maximum Answers Permitted"
+  },
+
+  "pOptionsDnD": {
+    "numChips": "Number of Chips",
+    "numCategories": "Number of Categories"
+  },
+
+  "pOptionsNumScale": {
+    "scaleSettings": "Scale Settings",
+    "minValue": "Minimum Value",
+    "maxValue": "Maximum Value",
+    "stepValue": "Interval Step Value",
+    "scaleLabels": "Scale Labels",
+    "minLabelShow": "Minimum Label Showing",
+    "midLabelShow": "Middle Label Showing",
+    "maxLabelShow": "Maximum Label Showing"
+  },
+
+  "pOptionsFlow": {
+      "showFlow": "Show flow edit view"
+  },
+
+  "postEditable": {
+    "noImage": "no image"
+  },
+
+  "qContentArticles": {
+    "articleLink": "Link to article",
+    "articleLinkPlaceholder": "Link to hosted news article...",
+    "fetch": "fetch",
+    "imageLink": "Link to image (auto-populated by article link)",
+    "imageLinkPlaceholder": "Link to header image...",
+    "refresh": "refresh",
+    "editablePreview": "Editable Preview",
+    "likeCount": "Like count",
+    "likePlaceholder": "Number of likes to display...",
+    "commentCount": "Comment count",
+    "commentPlaceholder": "Number of comments to display...",
+    "shareCount": "Share count",
+    "sharePlaceholder": "Number of shares to display..."
+  },
+
+  "panelBase": {
+    "editQuestion": "Edit Question",
+    "questionType":"Question Type",
+    "editBlock": "Edit Block",
+    "answerReq": "Answer Required",
+    "surveyFlow": "Edit Survey Flow"
+  },
+
+  "randomElem": {
+    "start": "Start of randomised section",
+    "end": "End of randomised section"
+  },
+
+  "flowEditor": {
+    "block": "Block",
+    "noQuestions": "This block has no questions"
+  },
+
+  "app": {
+    "surveyTitle": "The Survey Title",
+    "newBlockTitle": "Default Block Title",
+    "newQuestionTitle": "Default Question Title",
+    "source": "Default source",
+    "snippet": "Default snippet",
+    "title": "Default title",
+    "buttonDefault": "Default",
+    "MCDefault": "Default",
+    "numScaleNot": "Not",
+    "numScaleSomewhat": "Somewhat",
+    "numScaleVery": "Very",
+    "true": "True",
+    "false": "False",
+    "item": "Default",
+    "category": "Default"
+  },
+  "g5": {
+    "Home": "Home",
+    "User Profile": "User Profile",
+    "My Surveys": "My Surveys",
+    "Log In": "Log In",
+    "Sign Up": "Sign Up",
+    "Log in": "Log in",
+    "Create Account": "Create Account",
+    "Username": "Username",
+    "Password": "Password",
+    "Email": "Email",
+    "Confirm password": "Confirm password",
+    "Forgot your password?": "Forgot your password?",
+    "LOG IN": "LOG IN",
+    "Dont have an account?": "Don't have an account?",
+    "SIGN UP": "SIGN UP",
+    "Please enter your email": "Please enter your email",
+    "SUBMIT": "Submit",
+    "Reset your password": "Reset your password",
+    "Enter new password": "Enter new password",
+    "Confirm your password": "Confirm your password",
+    "Verify your email": "Verify your email",
+    "Survey Language": "Survey Language",
+    "Time Limit": "Time Limit",
+    "Survey Status": "Survey Status",
+    "Active": "Active",
+    "Inactive": "Inactive",
+    "minutes": "Minutes",
+    "Export": "Export responses",
+    "Welcome to CP13 Survey Platform!": "Welcome to CP13 Survey Platform!",
+    "Some introduction goes here!": "Some introduction goes here!",
+    "Log in failed": "Log in failed",
+    "profile-username": "Username",
+    "profile-email": "Email address",
+    "profile-first": "First name",
+    "profile-last": "Last name",
+    "logout": "Logout",
+    "update-first": "New first name",
+    "update-last": "New last name",
+    "new-password": "New password",
+    "confirm-password": "Confirm password",
+    "old-password": "Old password",
+    "save": "Save",
+    "delete-account": "Delete account",
+    "cancel": "Cancel",
+    "ms-create": "Create survey",
+    "ms-title": "Title",
+    "ms-length": "Length (minutes)",
+    "ms-action": "Actions",
+    "ms-edit": "Edit",
+    "ms-view-stats": "View statistics",
+    "ms-export-conf": "Export configuration",
+    "total-resp": "Total responses",
+    "last-response": "Last submitted response",
+    "statistics": "Statistics",
+    "update-pwd": "Update password"
+  }
+
+}

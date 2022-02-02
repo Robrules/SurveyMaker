@@ -1,0 +1,217 @@
+{
+    "navBar": {
+      "dashboard": "ダッシュボード",
+      "myAccount": "マイアカウント"
+    },
+  
+    "toolBar": {
+      "surveyEditor": "サーベイエディター",
+      "flowEditor": "フローエディター",
+      "surveySettings": "サーベイ設定",
+      "surveyPreview": "サーベイプレビュー"
+    },
+  
+    "workSpace": {
+      "addNewBlock": "新しいブロックの追加"
+    },
+  
+    "builderBlock": {
+      "addNewQuestion": "新しい質問の追加",
+      "questionType": "質問タイプ",
+      "blockOptions":"ブロックオプション",
+      "duplicateBlock": "ブロックの複製",
+      "clearBlock": "ブロックのクリア",
+      "deleteBlock": "ブロックの削除",
+      "typeDescription": "タイプの説明",
+      "descriptionText": "説明テキスト"
+    },
+  
+    "builderQuestion": {
+      "questionOptions": "質問オプション",
+      "duplicateQuestion": "質問の複製",
+      "deleteQuestion": "質問の削除",
+      "textEntryPlaceholder": "テキスト入力用プレースホルダー",
+      "buttonContent": "ボタンの内容",
+      "minTitle": "最小ラベルのテキスト",
+      "midTitle": "ミドルラベルのテキスト",
+      "maxTitle": "最大ラベルのテキスト",
+      "livePreview": "ライブプレビュー",
+      "multipleChoiceOptions": "多肢選択問題",
+      "questionType": "質問タイプ",
+      "DnDChips": "ドラッグアンドドロップ用のチップ",
+      "DnDCategories": "ドラッグアンドドロップ用のカテゴリー",
+      "endSelected": "選択された場合、停止しますか？"
+    },
+  
+    "textBox": {
+      "answer": "答え"
+    },
+  
+    "pOptionsTextEntry": {
+      "validateAnswer": "答えを検証する",
+      "minCharLength": "最小文字数の設定",
+      "minPlaceholder": "最小の長さ",
+      "maxCharLength": "最大文字数の設定",
+      "maxPlaceholder": "最大の長さ",
+      "answerType": "テキスト入力の回答タイプ",
+      "intLowerBound": "整数下限の設定",
+      "decLowerBound": "小数下限の設定",
+      "intUpperBound": "整数上限の設定",
+      "decUpperBound": "小数上限の設定"
+    },
+  
+    "pOptionsArticles": {
+      "socialPostFormat": "ソーシャルポストフォーマット",
+      "socialEngagement": "ソーシャルエンゲージメント",
+      "likeCount": "ライクのカウント",
+      "commentCount": "コメントのカウント",
+      "shareCount": "シェアのカウント"
+    },
+  
+    "pOptionsButtonRow": {
+      "numButtons": "ボタンの数",
+      "endSurvey": "サーベイを終了するオプション"
+    }, 
+  
+    "pOptionsMC": {
+      "numOptions": "オプションの数",
+      "allowMultiple": "複数回答可",
+      "setMinimum": "許容される最小回答数の設定",
+      "setMaximum": "許容される最大回答数の設定"
+    },
+
+    "pOptionsDnD": {
+      "numChips": "チップ数",
+      "numCategories": "カテゴリー数"
+    },
+  
+    "pOptionsNumScale": {
+      "scaleSettings": "スケールの設定",
+      "minValue": "最小値",
+      "maxValue": "最大値",
+      "stepValue": "ステップ値",
+      "scaleLabels": "スケールラベル",
+      "minLabelShow": "最小ラベルを表示するか",
+      "midLabelShow": "ミドルラベルを表示するか",
+      "maxLabelShow": "最大ラベルを表示するか"
+    },
+
+    "pOptionsFlow": {
+      "showFlow": "フローエディットビューの表示"
+  },
+  
+    "postEditable": {
+      "noImage": "ノーイメージ"
+    },
+  
+    "qContentArticles": {
+      "articleLink": "記事へのリンク",
+      "articleLinkPlaceholder": "ニュース記事へのリンク",
+      "fetch": "情報の取得",
+      "imageLink": "イメージへのリンク(記事へのリンクで自動入力されます)",
+      "imageLinkPlaceholder": "イメージへのリンク",
+      "refresh": "リフレッシュ",
+      "editablePreview": "編集可能なプレビュー",
+      "likeCount": "ライクのカウント",
+      "likePlaceholder": "表示するライクの数",
+      "commentCount": "コメントのカウント",
+      "commentPlaceholder": "表示するコメントの数",
+      "shareCount": "シェアのカウント",
+      "sharePlaceholder": "表示するシェアの数"
+    },
+  
+    "panelBase": {
+      "editQuestion": "質問の編集",
+      "questionType":"質問タイプ",
+      "editBlock": "ブロックの編集",
+      "answerReq": "回答必須",
+      "surveyFlow": "サーベイフローの編集"
+    },
+
+    "randomElem": {
+      "start": "ランダム化されたセクションの開始",
+      "end": "ランダム化されたセクションの終了"
+    },
+
+    "flowEditor": {
+      "block": "ブロック",
+      "noQuestions": "このブロックは質問がありません"
+    },
+  
+    "app": {
+      "surveyTitle": "サーベイタイトル",
+      "newBlockTitle": "既定のブロックタイトル",
+      "newQuestionTitle": "既定の質問タイトル",
+      "source": "既定のソース",
+      "snippet": "既定のスニペット",
+      "title": "既定のタイトル",
+      "buttonDefault": "既定",
+      "MCDefault": "既定",
+      "numScaleNot": "全然ない",
+      "numScaleSomewhat": "多少はありそう",
+      "numScaleVery": "可能性が高い",
+      "true": "真",
+      "false": "偽",
+      "item": "既定",
+      "category": "既定"
+  
+    },
+    "g5": {
+      "Home": "ホームページ",
+      "User Profile": "ユーザープロファイル",
+      "My Surveys": "マイサーベイ",
+      "Log In": "ログインする",
+      "Sign Up": "サインアップ",
+      "Log in": "ログイン",
+      "Create Account": "アカウントを作成する",
+      "Username": "ユーザーネームを入力してください",
+      "Password": "パスワードを入力してください",
+      "Email": "メールアドレスを入力してください",
+      "Confirm password": "パスワードを再入力してください",
+      "Forgot your password?": "パスワードをお忘れですか？",
+      "LOG IN": "ログインする",
+      "Dont have an account?": "アカウントをお持ちではありませんか？",
+      "SIGN UP": "サインアップ",
+      "Please enter your email": "メールアドレスを入力してください",
+      "SUBMIT": "提出",
+      "Reset your password": "パスワードを再設定する",
+      "Enter new password": "新しいパスワードを入力してください",
+      "Confirm your password": "パスワードを認証する",
+      "Verify your email": "メールアドレスの確認",
+      "Survey Language": "サーベイ言語",
+      "Time Limit": "制限時間",
+      "Survey Status": "ステータス",
+      "Active": "有効",
+      "Inactive": "無効",
+      "minutes": "分",
+      "Export": "エクスポート",
+      "Welcome to CP13 Survey Platform!": "CP13サーベイプラットフォームへようこそ!",
+      "Some introduction goes here!": "ここに紹介文を書く!",
+      "Log in failed": "ログイン失敗",
+      "profile-username": "ユーザーネーム",
+      "profile-email": "メールアドレス",
+      "profile-first": "ファーストネーム",
+      "profile-last": "ラストネーム",
+      "logout": "ログアウト",
+      "update-first": "新しいファーストネーム",
+      "update-last": "新しいラストネーム",
+      "new-password": "新しいパスワード",
+      "confirm-password": "パスワードを認証する",
+      "old-password": "旧パスワード",
+      "save": "セーブ",
+      "delete-account": "アカウントを削除",
+      "cancel": "キャンセル",
+      "ms-create": "サーベイの作成",
+      "ms-title": "タイトル",
+      "ms-length": "長さ（分）",
+      "ms-action": "アクション",
+      "ms-edit": "エディット",
+      "ms-view-stats": "統計情報を見る",
+      "ms-export-conf": "エクスポート設定",
+      "total-resp": "総回答数",
+      "last-response": "前回の回答",
+      "statistics": "統計",
+      "update-pwd": "パスワード更新"
+  }
+  
+  }

@@ -1,0 +1,51 @@
+{
+  "name": "cp13",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/vue-fontawesome": "^2.0.6",
+    "antd": "^4.16.13",
+    "axios": "^0.24.0",
+    "chart.js": "^3.6.0",
+    "chartjs-adapter-date-fns": "^2.0.0",
+    "core-js": "^3.6.5",
+    "date-fns": "^2.25.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "pubsub-js": "^1.9.3",
+    "vue": "^2.6.11",
+    "vue-chartjs": "^3.5.1",
+    "vue-i18n": "^8.26.5",
+    "vue-router": "^3.2.0",
+    "vue-smooth-dnd": "^0.8.1",
+    "vue-sweetalert2": "^5.0.2",
+    "vuex": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-unit-jest": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/test-utils": "^1.0.3",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "jest": {
+    "preset": "@vue/cli-plugin-unit-jest"
+  }
+}
